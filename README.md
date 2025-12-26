@@ -1,2 +1,5 @@
 # scn2aEEG
-EEG analysis code for patient 2
+EEG analysis code for the manuscript: "Individualized Antisense Oligonucleotides for SCN2A Related Developmental Epileptic Encephalopathy"
+
+Will be made public pending review of manuscript.
+
