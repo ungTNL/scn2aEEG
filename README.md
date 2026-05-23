@@ -1,6 +1,6 @@
 # scn2aEEG
 
-EEG analysis code for the manuscript: **"Individualized Antisense Oligonucleotides for SCN2A Related Developmental Epileptic Encephalopathy"**
+EEG and statistical analysis code for the manuscript: **"Individualized Antisense Oligonucleotides for SCN2A Related Developmental Epileptic Encephalopathy"**
 
 ## Data Availability
 
