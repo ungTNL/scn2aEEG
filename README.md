@@ -1,11 +1,15 @@
 # scn2aEEG
-EEG analysis code for the manuscript: "Individualized Antisense Oligonucleotides for SCN2A Related Developmental Epileptic Encephalopathy"
 
-Data is available per the Data Availability Statement from the manuscript
-Scripts are included.
+EEG analysis code for the manuscript: **"Individualized Antisense Oligonucleotides for SCN2A Related Developmental Epileptic Encephalopathy"**
 
+## Data Availability
 
-File Structure
+Data is available per the Data Availability Statement from the manuscript. All corresponding analysis scripts are included in this repository. 
+
+## Repository Structure
+
+```text
+.
 ├── code/
 │   ├── signal_analysis.ipynb
 │   └── stats_final_pub.ipynb
@@ -23,3 +27,4 @@ File Structure
             ├── 08-03-2024/
             ├── 11-14-2024/
             └── 02-05-2025/
+```
